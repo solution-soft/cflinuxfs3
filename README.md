@@ -1,4 +1,4 @@
-#SolutionSoft stack: cflinuxfs3#
+# SolutionSoft stack: cflinuxfs3 #
 
 This stack is based on the Cloud Foundry stack [cflinuxfs3](https://github.com/cloudfoundry/cflinuxfs3) with SolutionSoft TimeMachine capability enabled.
 
